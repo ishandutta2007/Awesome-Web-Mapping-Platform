@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Web-Mapping-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Mapping-Platform?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Mapping-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Mapping-Platform?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Mapping-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Mapping-Platform?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Mapping-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,9 +62,9 @@ The sector is **moderately fragmented**:
 
 ## 🔓 Open-Source GitHub Repositories & Libraries
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
-| Repository & Ecosystem | GitHub Stars ⭐ | Primary Purpose & Features ⚡ | License 📄 |
+| Repository & Ecosystem | GitHub_Stars ⭐ | Primary Purpose & Features ⚡ | License 📄 |
 | :--- | :--- | :--- | :--- |
 | 🍃 **[Leaflet](https://github.com/Leaflet/Leaflet)** | [<img src="https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white" alt="Leaflet Stars"/>](https://github.com/Leaflet/Leaflet/stargazers) | Ultra-lightweight (42 KB) mobile-friendly JavaScript library for interactive raster maps with vast plugin ecosystem. | BSD-2-Clause |
 | 🚀 **[CesiumJS](https://github.com/CesiumGS/cesium)** | [<img src="https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white" alt="Cesium Stars"/>](https://github.com/CesiumGS/cesium/stargazers) | Premier open-source 3D globe and map visualization library using WebGL with 3D Tiles geospatial support. | Apache-2.0 |
