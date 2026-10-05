@@ -107,6 +107,25 @@ Contributions are warmly welcomed! Please follow these steps to add new tools or
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using the **Awesome Web Mapping Platform** ecosystem directory! 🚀
+
+If you find this repository helpful for your projects, research, or development workflows, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork it** to contribute new web mapping platforms or open-source tools.
+- 📢 **Share it** with fellow GIS developers, Web engineers, and data teams.
+- ☕ **Buy me a coffee**: Support ongoing maintenance and curated updates via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor" />
+  </a>
+</p>
+
+---
+
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Web-Mapping-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Web-Mapping-Platform&type=date&legend=top-left)
